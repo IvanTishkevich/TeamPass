@@ -11,7 +11,6 @@ struct ListEmpty: View {
                 .frame(width: 361, height: 240.59)
                 .overlay {
                     VStack {
-//                        Image(.group)
                         Text("Add your first Passwords")
                             .fontWeight(.bold)
                         Text("Select the way to add")
